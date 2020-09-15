@@ -15,14 +15,18 @@ Open three different mac/linux terminals, or windows powershell/command line
 terminal 1: run the first localhost server
 <code>
 cd api1
+
 npm install
+
 node server1.js
 </code>
 
 terminal 2: run the second localhost server
 <code>
 cd api2
+
 npm install
+
 node server2.js
 </code>
 

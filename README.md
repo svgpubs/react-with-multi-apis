@@ -1,8 +1,8 @@
-## create-react-app fetches three apis using http-proxy-middleware
+## create-react-app fetches 3 different APIs using http-proxy-middleware
 
-This is a demo for to connect a create-react-app to multiple different ports on the localhost as well as to other webistes.
+### Connect a create-react-app to multiple different ports on the localhost as well as to other webistes.
 
-## to use this app
+## To use this app
 
 You must have Node.js installed.
 

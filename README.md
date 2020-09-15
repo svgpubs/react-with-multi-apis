@@ -12,6 +12,8 @@ https://stackoverflow.com/questions/63892664/how-to-make-http-proxy-middleware-c
 
 You must have Node.js installed.
 
+This is what the successful connections look like from the front end. If any don't work, they will say 'no response' or nothing at all.
+
 
 ![](image_app.png)
 

@@ -4,14 +4,15 @@ This is a demo for to connect a create-react-app to multiple different ports on 
 
 ## to use this app
 
-You must have node.js installed.
+You must have Node.js installed.
+
 
 ![](image_app.png)
 
 
-<code>
+```
 git clone https://github.com/svgpubs/react-with-multi-apis.git
-</code>
+```
 
 Open three different mac/linux terminals, or windows powershell/command line
 

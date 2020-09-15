@@ -6,6 +6,9 @@ This is a demo for to connect a create-react-app to multiple different ports on 
 
 You must have node.js installed.
 
+![](image_app.png)
+
+
 <code>
 git clone https://github.com/svgpubs/react-with-multi-apis.git
 </code>
@@ -34,5 +37,3 @@ npm start
 
 A browser should popup. If not, go to localhost:3000
 
-
-![image not shown](./reactapp/public/image_app.png?raw=true)

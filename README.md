@@ -2,6 +2,12 @@
 
 ### Connect a create-react-app to multiple different ports on the localhost as well as to other webistes.
 
+This is a demo App for those who had as much trouble as I did trying to transition from package.json proxy, to http-proxy-middleware. 
+
+This repository is an answer to my own question on stackoverflow:
+
+https://stackoverflow.com/questions/63892664/how-to-make-http-proxy-middleware-connect-to-localhost-server-from-create-react
+
 ## To use this app
 
 You must have Node.js installed.
